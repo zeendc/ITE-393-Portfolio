@@ -438,7 +438,7 @@ footer {
   .home-section,
   .about-section,
   .projects-section,
-  .section {
+  .section3{
     display: flex;
     justify-content: center;
     align-items: center;
